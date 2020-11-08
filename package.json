@@ -23,7 +23,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "britecharts": "^2.16.1",
+    "britecharts": "^3.0.0-alpha-2.4",
     "d3-selection": "^1.4.1"
   }
 }
